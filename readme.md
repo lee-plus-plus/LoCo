@@ -1,12 +1,12 @@
 <h1 align="center">LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition</h1>
 
 <p align="center">
-  Zhuoming Li<sup>1</sup> · Bo Han<sup>1</sup> · Xiaoyu Wang<sup>2</sup> · Yuheng Jia<sup>1,3,*</sup>
+  Zhuoming Li<sup>1</sup> · Bo Han<sup>2</sup> · Xiaoyu Wang<sup>1</sup> · Yuheng Jia<sup>2,3,*</sup>
 </p>
 
 <p align="center">
-  <sup>1</sup>School of Computer Science and Engineering, Southeast University, Nanjing, China<br>
-  <sup>2</sup>School of Software Engineering, Southeast University, Nanjing, China<br>
+  <sup>1</sup>School of Software Engineering, Southeast University, Nanjing, China<br>
+  <sup>2</sup>School of Computer Science and Engineering, Southeast University, Nanjing, China<br>
   <sup>3</sup>Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications<br>
   (Southeast University), Ministry of Education, China<br>
   <sup>*</sup>Corresponding author
